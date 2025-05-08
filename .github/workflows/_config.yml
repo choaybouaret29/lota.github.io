@@ -1,7 +1,0 @@
-title: Branduvo
-description: Affiliate marketing site for top productivity tools.
-baseurl: ""
-url: "https://lota.github.io"
-theme: minima
-plugins:
-  - jekyll-feed
